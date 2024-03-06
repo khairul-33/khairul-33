@@ -5,7 +5,7 @@
 - 📫 How to reach me? I also want to know
 - 😄 Pronouns: He
 - ⚡ Fun fact: What is it ?
-- https://github-readme-stats.vercel.app/api?username=khairul-33 &theme=radical
+- https://github-readme-stats.vercel.app/api?username=khairul-33&theme=radical
 
 <!---
 khairul-33/khairul-33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
